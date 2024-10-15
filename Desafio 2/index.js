@@ -18,3 +18,4 @@ function checkText(textTransformed) {
     let timesAppeared = textArray.filter(letra => letra === "a").length
     return console.log(`A letra a apareceu ${timesAppeared} vezes na frase: ${text}`)
 }
+
