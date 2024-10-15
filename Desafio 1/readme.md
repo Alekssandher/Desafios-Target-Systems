@@ -5,6 +5,6 @@ Instale as seguintes depêndencias:
 
 Vá ao site do [Node Js](https://nodejs.org/pt) e o instale.
 
-Para rodar o programa, nesta pasta execute o seguinte comando no terminal `node index.js` ou execute o executavel de seu respesctivo sistema.
+Para rodar o programa, nesta pasta execute o seguinte comando no terminal `node index.js`.
 
 
