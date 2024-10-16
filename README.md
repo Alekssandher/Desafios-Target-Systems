@@ -12,5 +12,5 @@
 
 <p>IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;</p>
 
-<b>Eles pode estar sendo encontrados nas pastas Desafio 1 e Desafio 2</b>
+<b>Eles podem estar sendo encontrados nas pastas Desafio 1 e Desafio 2</b>
 
